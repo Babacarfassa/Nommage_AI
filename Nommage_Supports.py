@@ -25,7 +25,7 @@ from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 from qgis.core import * 
 from qgis.utils import *
-
+'my test modify GIT'
 def  Nommage_Supports_function(shape_pt, shape_sro,shape_support, Fichier_CONF_PYTHON):
 	"""Run method that performs all the real work"""
 			
